@@ -16,7 +16,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/@arthurcastro1571/" target="_blank">
+  <a href="https://www.youtube.com/@arthurcastro1571/" target="_blank" target="_blank"target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
   <a href="https://www.instagram.com/arthurcastro_99/" target="_blank">
