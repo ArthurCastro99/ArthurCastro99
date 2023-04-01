@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para entra em contato ou ver meus projetos clique em uma das opções abaixo.
  
 <div> 
   <a href="https://www.youtube.com/@arthurcastro1571" target="_blank">
