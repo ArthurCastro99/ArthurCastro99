@@ -31,5 +31,5 @@ Sempre busco desenvolver projetos para praticar lógica de programação e criar
  
 ### Meus contatos.
  
-  <a href="https://www.instagram.com/arthurcastro_99/" target="_blank">![INSTAGRAM](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/arthur-castro-b70a02223/" target="_blank">![LINKEDIN](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.instagram.com/arthurscdev/" target="_blank">![INSTAGRAM](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  <a href="http://www.linkedin.com/in/arthur-sc/" target="_blank">![LINKEDIN](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
