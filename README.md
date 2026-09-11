@@ -23,9 +23,9 @@ Sempre busco desenvolver projetos para praticar lógica de programação e criar
  
 <br>
 <div>
-   <a href="https://github.com/ArthurCastro99">
-   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ArthurCastro99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurCastro99&layout=compact&langs_count=6&theme=github_dark"/>
+   <a href="https://github.com/arthurscdev">
+   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=arthurscdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthurscdev&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 <br>
  
